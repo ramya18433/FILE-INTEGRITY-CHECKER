@@ -32,12 +32,12 @@ This method of verifying file integrity is practical for various applications, i
 In conclusion, using Python's hashlib library provides a simple yet powerful way to ensure file integrity. With the help of VS Code, I successfully developed, tested, and ran a Python script capable of detecting unauthorized changes to files by comparing hash values. This project highlights the importance of file integrity in maintaining secure and reliable systems.
 
 ##
+![Image](https://github.com/user-attachments/assets/8e7774a3-e10f-4c7a-bd6d-c49e4ad02d17)
 
-![Image](https://github.com/user-attachments/assets/011bd450-0321-42a3-aa44-47748472c81d)
 
 ##
 
-![Image](https://github.com/user-attachments/assets/80d0d520-be33-4e55-a72d-8a009f363e9b)
+![Image](https://github.com/user-attachments/assets/86bddd15-f2bf-41a8-83fe-54fa1580c086)
 
 
 
